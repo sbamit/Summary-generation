@@ -5,9 +5,7 @@ Authors: Sajib Biswas, Arunima Mandal, Fatema Tabassum Liza
 
 The dataset is taken from the Cornell Newsroom dataset. The link to the dataset is given below.
 https://lil.nlp.cornell.edu/newsroom/index.html 
-You can go to the ‘download’ tab of the website and submit a form to get the dataset. Otherwise, we also shared a google drive link where the dataset will be hosted for a short period of time.
-
-https://drive.google.com/file/d/1UeaNC4zP0gSEWtgPXdKnGcflsJz6o0xR/view?usp=sharing 
+You can go to the ‘download’ tab of the website and submit a form to get the dataset. 
 
 The program files are grouped in the following way.
 Data preprocessing part is the most complicated and time-consuming part in this project. So, the program files created for this purpose are in a folder called ‘data_prep’ and are in .py format. These files need to run in the following order. The ordering of them is very important, because the output of one python program is used as the input for the next program. 
